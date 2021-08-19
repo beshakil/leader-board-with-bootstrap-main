@@ -1,0 +1,36 @@
+
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+.pink {
+        color: #ED6B4F
+}
+
+.fill {
+        color: #FFC014;
+        height: 12px;
+        width: 12px;
+        margin-left: 5px;
+}
+
+.not-fill {
+        color: #AEAEAE;
+        height: 12px;
+        width: 12px;
+        margin-left: 5px;
+}
+
+.time-bg {
+        background: rgb(255, 228, 232);
+}
+
+.course-details {
+        color: #FF4A60;
+}
+
+a {
+        text-decoration: none;
+}
